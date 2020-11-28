@@ -1,5 +1,6 @@
 .gitignore
 /.venv
+/tmp
 *.pyc
 README.md
 # DATA BEDU
